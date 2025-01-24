@@ -1,8 +1,4 @@
 ### Hi there 👋
 
-I am Udith Weerasinghe from Sri Lanka, currently in my third year of undergraduate studies, specializing in Electronic and Telecommunication Engineering. Fueled by a deep passion for machine learning, deep learning, and software engineering, I possess a robust understanding of engineering principles. My aspiration is to pioneer impactful innovations in these domains, with the ultimate goal of contributing to the global community by delivering groundbreaking solutions and pushing the boundaries of technology.
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=UdithWeerasinghe)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UdithWeerasinghe)](https://github.com/anuraghazra/github-readme-stats)
+I am Udith Weerasinghe from Sri Lanka, currently in my final year of undergraduate studies, specializing in Electronic and Telecommunication Engineering. I am a fast learner with interests in AI Engineering, Machine
+Learning, Deep Learning, Data Engineering, Computer Vision, and Software Engineering. Motivated with a strong aptitude for problem-solving and innovation. Known for breaking complex challenges into manageable steps and delivering results. A dependable team player with excellent adaptability and a commitment to continuous learning and practical application.
